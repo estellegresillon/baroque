@@ -1,8 +1,8 @@
 {
-  "name": "ScrollAnimationsGrid",
+  "name": "baroque",
   "version": "1.0.0",
   "browserslist": "> 0.5%, last 2 versions, not dead",
-  "description": "Scroll animations for images when they enter/leave the viewport",
+  "description": "Infinite scroll loop baroque gallery",
   "scripts": {
     "start": "parcel src/index.html --open",
     "clean": "rm -rf dist/*",
@@ -11,15 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/codrops/ScrollAnimationsGrid.git"
+    "url": "git://github.com/estellegresillon/baroque.git"
   },
   "keywords": [],
-  "author": "Codrops",
+  "author": "Estelle Grésillon",
   "license": "MIT",
-  "homepage": "https://tympanus.net/codrops",
-  "bugs": {
-    "url": "https://github.com/codrops/ScrollAnimationsGrid/issues"
-  },
+  "homepage": "https://baroque.estellegresillon.fr",
   "devDependencies": {
     "parcel": "^2.5.0"
   },
